@@ -1,3 +1,5 @@
+# YOU NEED TO USE THE .SQL THAT COMES WITH THIS RESOURCE AND NOT THE ONE OF ESX_VEHICLESHOP
+
 # About esx_advancedgarage:
 Advanced Garage system for ESX Servers
 
