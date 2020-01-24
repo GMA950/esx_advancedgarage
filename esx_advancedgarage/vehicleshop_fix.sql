@@ -9,5 +9,6 @@ CREATE TABLE IF NOT EXISTS `owned_vehicles` (
   `type` varchar(20) NOT NULL DEFAULT 'car',
   `job` varchar(20) NOT NULL DEFAULT '',
   `stored` tinyint(1) NOT NULL DEFAULT '0',
+  `fuel` double NOT NULL DEFAULT '100',
   PRIMARY KEY (`plate`)
 );
